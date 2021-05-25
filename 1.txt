@@ -1,0 +1,3 @@
+[user]
+	email=kadabra777@gmail.com
+	user=vaserson
